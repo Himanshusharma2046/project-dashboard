@@ -4,7 +4,7 @@ A simple project management dashboard built with React and Firebase that allows 
 
 ##  Live Demo
 
-[View Live Demo](your-deployed-url-here)
+[View Live Demo](https://project-dashboard-six-rho.vercel.app/)
 
 ##  Features
 
